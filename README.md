@@ -14,3 +14,4 @@ functional programming utilities that makes operations on Collections a breeze
 ## YouTube Video
 
 * https://www.youtube.com/watch?v=N4CpLxGJlq0
+* https://www.youtube.com/watch?v=F8jj7e-_jFA
